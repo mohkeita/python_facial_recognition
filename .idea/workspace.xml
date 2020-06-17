@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4bf181c-ccc6-4f96-88fb-e2aa3bee1910" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/facematch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findfaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pullfaces.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,14 +46,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592332942476</updated>
-      <workItem from="1592332959845" duration="565000" />
+      <workItem from="1592332959845" duration="12886000" />
     </task>
+    <task id="LOCAL-00001" summary="add images">
+      <created>1592333660331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592333660331</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="add images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add images" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="118" y="23" key="CommitChangelistDialog2" timestamp="1592333659715">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="118" y="23" key="CommitChangelistDialog2/0.23.1280.737@0.23.1280.737" timestamp="1592333659715" />
     <state x="552" y="329" key="Github.ShareDialog" timestamp="1592333071665">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
@@ -50,5 +79,13 @@
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="474" y="130" key="Github.UntrackedFilesDialog/0.23.1280.737@0.23.1280.737" timestamp="1592333089043" />
+    <state x="160" y="23" key="SettingsEditor" timestamp="1592339961908">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="160" y="23" key="SettingsEditor/0.23.1280.737@0.23.1280.737" timestamp="1592339961908" />
+    <state x="140" y="146" key="Vcs.Push.Dialog.v2" timestamp="1592333663460">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="140" y="146" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1592333663460" />
   </component>
 </project>
